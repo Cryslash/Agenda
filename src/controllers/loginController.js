@@ -1,4 +1,4 @@
-const Login = require('../Models/LoginModel');
+const Login = require('../models/LoginModel');
 
 exports.index = (req, res) => {
     //  console.log(req.session.user);
